@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./minecraft-banner.png" width="600" />
+  <img src="./tarekk.png" width="600" />
 </h1>
 
 <p align="center"> 2nd IT Student @ISET SFAX</p>
