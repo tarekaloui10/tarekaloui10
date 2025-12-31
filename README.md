@@ -9,9 +9,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarekaloui10&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarekaloui10&theme=2077" />
 </p>
-<p align="center">
-  <img src="./minecraft-banner.png" width="600" />
-</p>
 
 
 
