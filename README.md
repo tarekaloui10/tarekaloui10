@@ -1,5 +1,5 @@
-<h1 align="center">♟️ Welcome to My GitHub — Checkmate the Code ♟️</h1>
-<p align="center">IT Student | React Learner | Chess Mindset Developer</p>
+<h1 align="center"> Welcome to My GitHub </h1>
+<p align="center"> 2nd IT Student @ISET SFAX</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,vite,java,mysql,git,github,python,linkedin,discord,vscode,eclipse,php,c,cs,postman"
