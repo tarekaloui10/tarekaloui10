@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align ="center "> welcome to tarekaloui's profile</h1>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,vite,java,mysql,git,github,python,c,c#,linkedin,discord,vscode,eclipse,sqloracle,php"
+</p>
+![snake animation](https://github.com/tarekaloui10/tarekaloui10/blob/output/github-contribution-grid-snake.svg)
+.github/workflows/snake.yml
+name: Generate Snake
 
-<!--
-**tarekaloui10/tarekaloui10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+on:
+  schedule: 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-Here are some ideas to get you started:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: dist/snake.svg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      - name: Push
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist
+
+
+
+
