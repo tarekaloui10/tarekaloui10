@@ -4,11 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarekaloui10&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarekaloui10&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarekaloui10&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarekaloui10&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarekaloui10&theme=2077" />
 </p>
 
 
