@@ -1,9 +1,10 @@
 <h1 align="center">
   <img src="./tarekk.png" width="600" />
 </h1>
-<p>
-  <img src=https://komarev.com/ghpvc/?username=tarekaloui10&label=Profile%20Views&color=orange&style=for-the-badge
-</p>
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=tarekaloui0&color=red)
+</div>
+
 
 
 <p align="center"> 2nd IT Student @ISET SFAX</p>
