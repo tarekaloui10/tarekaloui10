@@ -12,6 +12,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarekaloui10&theme=2077" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarekaloui10&theme=2077" />
 </p>
+![Profile views](https://komarev.com/ghpvc/?username=tarekaloui10&label=Profile%20Views&color=orange&style=for-the-badge)
+
 
 
 
