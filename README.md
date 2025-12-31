@@ -2,7 +2,7 @@
   <img src="./tarekk.png" width="600" />
 </h1>
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=tarekaloui0&color=red)
+<img src=![Profile Views](https://komarev.com/ghpvc/?username=tarekaloui0&color=red)>
 </div>
 
 
