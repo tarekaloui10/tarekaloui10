@@ -1,4 +1,7 @@
-<h1 align="center"> Welcome to My GitHub </h1>
+<h1 align="center">
+  <img src="./minecraft-banner.png" width="600" />
+</h1>
+
 <p align="center"> 2nd IT Student @ISET SFAX</p>
 
 <p>
