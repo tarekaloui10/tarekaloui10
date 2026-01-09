@@ -1,4 +1,4 @@
-<centre><header><h1> Hi IM Tarek Aloui 👋
+<header><h1> Hi IM Tarek Aloui 👋
 </h1>
   <br>
  <h2>
@@ -10,7 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=tarekaloui10&style=flat-square">
   </dr>
 </header>
-</centre>
 
 <div> 
 Backend-focused developer based in Tunisia,
@@ -38,14 +37,15 @@ I build systems to understand them deeply,not just to make them work.
     
   </div>
     <div>
-      databases
-   <img src="https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">
+      databases:
+      <br>
+      <img src="https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white">
+        <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Mongodb-green?logo=mongodb&logoColor=white">  
       
   </div>
       <div>
-      frontend
+      frontend:
         <br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">  
@@ -53,7 +53,7 @@ I build systems to understand them deeply,not just to make them work.
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
   </div>
     <div>
-      Tools & environments  
+      Tools & environments:
       <br>
    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white">  
@@ -61,7 +61,7 @@ I build systems to understand them deeply,not just to make them work.
     <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white">
   </div>
    <div>
-     communication
+     communication:
      <br>
       <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">  
@@ -84,9 +84,11 @@ I build systems to understand them deeply,not just to make them work.
   </div>
   <div>
     Quote
+    <h2>
     "intelligence is the ability to avoid doing work yet getting the work done"
     <br>
     -linus Torvalds
+    </h2>
   </div>
   <div>
     you cand find me :
