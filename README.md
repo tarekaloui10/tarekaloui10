@@ -1,4 +1,4 @@
-<header> Hi IM Tarek Aloui 👋</header>
+<header><h1> Hi IM Tarek Aloui 👋 </h1></header>
 2nd year IT student @ISET-SFAX
 <div> 
 Backend-focused developer based in Tunisia,
