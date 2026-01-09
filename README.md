@@ -26,6 +26,7 @@ I build systems to understand them deeply,not just to make them work.
         <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white">
         
   </div>  
   <div>
