@@ -5,7 +5,7 @@
    2nd year IT student @ISET-SFAX
  </h2> 
   <dr>
-    <h3>Those who saw me:</h3>
+    Those who saw me:
   <br>
 <img src="https://komarev.com/ghpvc/?username=tarekaloui10&style=flat-square">
   </dr>
