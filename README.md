@@ -83,7 +83,7 @@ I build systems to understand them deeply,not just to make them work.
        <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">  
   </div>
   <div>
-    Quote
+    <h3>Quote:</h3>
     <h2>
     "intelligence is the ability to avoid doing work yet getting the work done"
     <br>
