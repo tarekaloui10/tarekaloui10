@@ -1,12 +1,21 @@
-<header><h1> Hi IM Tarek Aloui 👋 </h1></header>
-2nd year IT student @ISET-SFAX
+<header><h1> Hi IM Tarek Aloui 👋
+</h1>
+  <br>
+ <h2>
+   2nd year IT student @ISET-SFAX
+ </h2> 
+  <dr>
+    Those who saw me:
+  <br>
+<img src="https://komarev.com/ghpvc/?username=tarekaloui10&style=flat-square">
+  </dr>
+</header>
+
 <div> 
 Backend-focused developer based in Tunisia,
 I build systems to understand them deeply,not just to make them work.
 <br> 
-Those who saw me:
-  <br>
-<img src="https://komarev.com/ghpvc/?username=tarekaloui10&style=flat-square"></div>
+</div>
 <div>
   Technologies & Tools
   <div>
