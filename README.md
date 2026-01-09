@@ -17,7 +17,7 @@ I build systems to understand them deeply,not just to make them work.
 <br> 
 </div>
 <div>
-  Technologies & Tools
+  Technologies & Tools:
   <div>
   programing languages:
     <br>
@@ -69,10 +69,14 @@ I build systems to understand them deeply,not just to make them work.
   <div>
     how i work:
     <br>
-    - I focus on fundamentals before frameworks  
+    - I focus on fundamentals before frameworks 
+    <br>
     - I value readable, boring, correct code  
-    - I build projects to understand systems, not to chase trends  
+    <br>
+    - I build projects to understand systems, not to chase trends
+    <br>
     - I enjoy backend logic, validation, and data flow  
+    <br>
   </div> 
   <div>
        <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">  
