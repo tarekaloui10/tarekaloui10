@@ -1,4 +1,4 @@
-<header><h1> Hi IM Tarek Aloui 👋<h4> (i dont know everything but i cand understand everything)</h4>
+<header><h1> Hi IM Tarek Aloui 👋<h4> (i dont know everything but i can understand everything)</h4>
 </h1>
   <br>
  <h2>
