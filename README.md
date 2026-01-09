@@ -5,7 +5,7 @@
    2nd year IT student @ISET-SFAX
  </h2> 
   <dr>
-    Those who saw me:
+    <h3>Those who saw me:</h3>
   <br>
 <img src="https://komarev.com/ghpvc/?username=tarekaloui10&style=flat-square">
   </dr>
@@ -17,7 +17,7 @@ I build systems to understand them deeply,not just to make them work.
 <br> 
 </div>
 <div>
-  Technologies & Tools:
+  <h3>Technologies & Tools:</h3>
   <div>
   programing languages:
     <br>
@@ -69,7 +69,7 @@ I build systems to understand them deeply,not just to make them work.
      
    </div>
   <div>
-    how i work:
+   <h3> how i work:</h3>
     <br>
     - I focus on fundamentals before frameworks 
     <br>
