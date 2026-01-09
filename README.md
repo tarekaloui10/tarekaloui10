@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=tarekaloui10&style=flat-square">
   </dr>
 </header>
-
+<centre>
 <div> 
 Backend-focused developer based in Tunisia,
 I build systems to understand them deeply,not just to make them work.
@@ -92,7 +92,8 @@ I build systems to understand them deeply,not just to make them work.
     <br>
     "tarekaloui05@gmail.com"
   </div>
-</div>
+</centre>
+
 
 
 
