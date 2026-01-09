@@ -1,9 +1,11 @@
 <header> Hi IM Tarek Aloui 👋</header>
 2nd year IT student @ISET-SFAX
 <div> 
-Backend-focused developer based in Tunisia.
+Backend-focused developer based in Tunisia,
 I build systems to understand them deeply,not just to make them work.
-Those who saw me
+<br> 
+Those who saw me:
+  <br>
 <img src="https://komarev.com/ghpvc/?username=tarekaloui10&style=flat-square"></div>
 <div>
   Technologies & Tools
